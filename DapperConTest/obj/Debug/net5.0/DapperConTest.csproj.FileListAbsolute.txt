@@ -1,0 +1,5 @@
+C:\Users\user-pc\source\repos\Tutorial\DapperConTest\obj\Debug\net5.0\DapperConTest.csproj.AssemblyReference.cache
+C:\Users\user-pc\source\repos\Tutorial\DapperConTest\obj\Debug\net5.0\DapperConTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\source\repos\Tutorial\DapperConTest\obj\Debug\net5.0\DapperConTest.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\DapperConTest\obj\Debug\net5.0\DapperConTest.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\Tutorial\DapperConTest\obj\Debug\net5.0\DapperConTest.csproj.CoreCompileInputs.cache
