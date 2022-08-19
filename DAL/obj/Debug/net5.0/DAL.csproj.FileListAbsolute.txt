@@ -3,6 +3,7 @@ C:\Users\user-pc\source\repos\Tutorial\DAL\bin\Debug\net5.0\DAL.deps.json
 C:\Users\user-pc\source\repos\Tutorial\DAL\bin\Debug\net5.0\DAL.dll
 C:\Users\user-pc\source\repos\Tutorial\DAL\bin\Debug\net5.0\ref\DAL.dll
 C:\Users\user-pc\source\repos\Tutorial\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
@@ -10,4 +11,3 @@ C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompi
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.dll
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\ref\DAL.dll
 C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.pdb
-C:\Users\user-pc\source\repos\Tutorial\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache

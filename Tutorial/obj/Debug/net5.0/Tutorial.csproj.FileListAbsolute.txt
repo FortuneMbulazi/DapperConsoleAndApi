@@ -1,11 +1,3 @@
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.AssemblyReference.cache
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cache
-C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cs
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\appsettings.json
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\Tutorial.exe
@@ -147,6 +139,14 @@ C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\BLL.pdb
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\BO.pdb
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\DAL.pdb
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\bin\Debug\net5.0\DAL.dll.config
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.AssemblyReference.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.AssemblyInfo.cs
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cache
+C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\Tutorial.RazorAssemblyInfo.cs
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\staticwebassets\Tutorial.StaticWebAssets.Manifest.cache
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\staticwebassets\Tutorial.StaticWebAssets.xml
 C:\Users\user-pc\source\repos\Tutorial\Tutorial\obj\Debug\net5.0\scopedcss\bundle\Tutorial.styles.css

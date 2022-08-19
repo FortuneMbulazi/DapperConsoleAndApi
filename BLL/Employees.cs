@@ -13,22 +13,16 @@ namespace BLL
 {
     public class Employees
     {
-        private readonly IDbConnection _DataBaseConnection;
-        
-        public Employees(IDbConnection DataBaseConnection)
+        public List<BO.Employee> GetEmployees(long employeeId)
         {
-            _DataBaseConnection = DataBaseConnection;
-        }
+            List<BO.Employee> results = new List<BO.Employee>();
 
-        public List<BO.Employee> GetEmpoyees()
-        {
-            List<BO.Employee> employee = null;
             using (var db = DataAccess.TestDB())
             {
-                employee = db.Query<BO.Employee>("dbo.GetEmployees", commandType: CommandType.StoredProcedure).ToList();
+                results = db.Query<BO.Employee>("dbo.GetEmployees", param: new { employeeId }, commandType: CommandType.StoredProcedure).ToList();
             }
 
-            return employee;
+            return results;
         }
     }
 }
